@@ -1,0 +1,50 @@
+.cost-input {
+  font-size: 15px;
+  padding: 10px;
+}
+
+.js-button1 {
+  background-color: green;
+  border: 0;
+  color: white;
+  font-size: 15px;
+  padding: 11px 20px;
+  cursor: pointer;
+}
+.cart {
+  color: red;
+}
+
+.amazon {
+  background-color: rgb(255, 216, 20);
+  color: black;
+  height: 36px;
+  border: none;
+  border-radius: 18px;
+  padding: 5px 36px;
+  font-size: 20px;
+  font-family: Arial;
+  cursor: pointer;
+  margin-bottom: 50px;
+}
+
+.cart2 {
+  background-color: rgb(185, 183, 183);
+  color: black;
+}
+
+.js-button {
+  background-color: rgb(202, 202, 202);
+  color: black;
+  padding: 5px 12px;
+  height: 32px;
+  border: none;
+  border-radius: 6px;
+  margin-right: 12px;
+  cursor: pointer;
+}
+
+.is-toggled {
+  background-color: black;
+  color: white;
+}
